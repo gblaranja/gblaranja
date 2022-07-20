@@ -4,9 +4,9 @@
 - ⚡ Fun fact: I love my last name and i always try to put it in a relaxed way in personal projects 😂🍊
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=highcontrast"/>
+  <a href="https://github.com/gblaranja">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gblaranja&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gblaranja&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Java"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
