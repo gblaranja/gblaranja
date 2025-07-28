@@ -58,5 +58,3 @@ I'm a **jiu-jitsu practitioner** and a **runner** in my free time, and I lead a 
 </div>
 
 ---
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
