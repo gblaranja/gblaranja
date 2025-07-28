@@ -9,8 +9,8 @@ I'm a **jiu-jitsu practitioner** and a **runner** in my free time, and I lead a 
 
 <div align="center">
   <a href="https://github.com/gblaranja">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gblaranja&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gblaranja&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+    <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gblaranja&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+    <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api?username=gblaranja&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
   </a>
 </div>
 
