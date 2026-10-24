@@ -1,11 +1,58 @@
-## Hi! I'm Gabriel Laranja, a developer passionate about technology and innovation. 🚀
-### 👨‍💻 About me 
+## Hi there! I'm Gabriel Laranja 👋
 
-> Communicative, proactive, and enthusiastic about new challenges and opportunities.
-> Passionate about technology, entrepreneurship, innovation, and project management.Experienced in both front-end and back-end application development, with a generalist profile.Specialized in **Java**, **Node.js**, **React**, and **SQL**.  
-I'm a **jiu-jitsu practitioner** and a **runner** in my free time, and I lead a healthy, joyful, and fulfilling lifestyle.
+> **Backend Software Engineer** passionate about technology, innovation, and scalable systems. Currently building high-impact financial products and credit solutions[cite: 1, 2].
 
 ---
+
+### 👨‍💻 About me
+
+* 🚀 Experienced backend developer with a generalist background, specialized in building robust, secure, and high-performance microservices and APIs[cite: 1, 2].
+* 💼 Currently working at **MB Labs / VR**, developing credit solutions (PF/PJ, payroll loans, FGTS anticipation) integrated with antifraud and credit engines.
+* ✈️ Previously delivered end-to-end critical systems for the aerospace sector at **Embraer (SONDA)**, covering aircraft health monitoring, flight operations, and customer portals[cite: 3].
+* 🤖 Enthusiast of modern engineering workflows, heavily leveraging AI coding assistants (**Cursor, Claude Code**) and robust CI/CD pipelines[cite: 2].
+* 🥋 In my free time, you'll find me practicing **jiu-jitsu** and **running**, maintaining a balanced, active, and joyful lifestyle[cite: 1].
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Back-end & Architecture**
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+</div>
+
+#### **Cloud, DevOps & Infrastructure**
+<div style="display: inline_block">
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg">
+  <img align="center" alt="GitHub Actions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
+
+#### **Databases & Observability**
+<div style="display: inline_block">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Datadog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg">
+  <img align="center" alt="Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
+</div>
+
+#### **Front-end**
+<div style="display: inline_block">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/gblaranja">
@@ -16,40 +63,13 @@ I'm a **jiu-jitsu practitioner** and a **runner** in my free time, and I lead a 
 
 ---
 
-### 🚀 **Technologies I use on a daily basis**
+### 📫 Let's Connect
 
-#### <ins>Back-end and Infraestructure</ins>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Gabriel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Gabriel-Node.js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Gabriel-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Gabriel-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Gabriel-Terraform" height=30 width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg"/>
- 
-  
-</div>
-
-#### <ins>Front-end</ins>
-
-<div>
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-</div>
-
----
-
-### 📫 Como me encontrar
-
-<div>
+<div align="center">
   <a href="mailto:laranja.gabriel100@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gabriel-laranja" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
